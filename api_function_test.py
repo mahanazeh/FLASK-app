@@ -1,0 +1,1 @@
+# For API function tests (using Postman Automation).
